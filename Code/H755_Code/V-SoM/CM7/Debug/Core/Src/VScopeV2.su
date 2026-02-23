@@ -1,0 +1,2 @@
+../Core/Src/VScopeV2.c:26:6:my_rx_cb	64	static,ignoring_inline_asm
+../Core/Src/VScopeV2.c:55:6:VScope_Stream	32	static,ignoring_inline_asm

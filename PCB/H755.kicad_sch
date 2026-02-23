@@ -1,0 +1,76 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "c49b2f24-0f05-4f04-93be-21305c5297ab")
+	(paper "A3")
+	(lib_symbols)
+	(text_box "H755 control board features\n\n5 HRTIM complementary channels\n3 TIM1 complementary channels\n3 optional TIM8 complementary channels\n14 ADC inputs (4 ADC1, 3 ADC2, 7 ADC3)\n4 dedicated GPIO\n4 testpoints (supply, GND, interrupt pin)\n1 I2C\n2 SPI\n1 CANFD\n1 UART\n\n\nBoard features\nSix layers\nSTLink 14 pin connector\n1A 3V3 LDO output\n5 V input (optional 2pin header for debug)\nparallel diode reverse protection\n1.5mm Castellation pitch\nRJ45 100Mbit/s Ethernet\n"
+		(exclude_from_sim no)
+		(at 234.95 86.36 0)
+		(size 90.17 71.12)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.905 1.905)
+			)
+			(justify left top)
+		)
+		(uuid "ae258909-3112-4b15-857b-f2797ca31dd3")
+	)
+	(sheet
+		(at 152.4 106.68)
+		(size 64.77 33.02)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ade05bd3-9ca8-4c5f-a36f-d02bc3ca615a")
+		(property "Sheetname" "uC"
+			(at 152.4 105.9684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "uC.kicad_sch"
+			(at 152.4 140.2846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "H755"
+				(path "/c49b2f24-0f05-4f04-93be-21305c5297ab"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
