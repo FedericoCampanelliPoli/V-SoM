@@ -1,0 +1,5 @@
+  VScope.buffer[0]=&ISR_M_d;  
+  VScope.buffer[1]=&ISR_frequency;
+  VScope.buffer[2]=&ISR_sine_r[0];
+  VScope.buffer[3]=&ISR_sine_r[1];
+  VScope.buffer[4]=&ISR_sine_r[2];
