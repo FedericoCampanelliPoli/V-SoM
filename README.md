@@ -3,11 +3,13 @@
 V-SoM is an embeddable System on Module (SoM) for converter control applications that can be programmed with PLECS, Simulink or C. Targeting microcontroller-based control modules for power electronics converters and custom embedded applications. 
 
 <img width="454" height="343" alt="immagine" src="https://github.com/user-attachments/assets/1e4d6177-b11d-4a40-bb3b-c211c3917550" /> 
+<img width="454" height="343" alt="immagine" src="https://github.com/user-attachments/assets/ee71a4b1-e50b-49ab-b51e-512a95fa3a74" /> 
+
 
 ### VScope2.0
 Thanks to its integrated Virtual Oscilloscope, the PC can view, edit and store data in real time running on the controller up to 50kSPS and 60 channels.
 
-<img width="1920" height="1032" alt="Screenshot 2026-01-26 135236" src="https://github.com/user-attachments/assets/c56da395-f914-4491-8722-93953c0aaad4" />
+<img width="1920" height="1032" alt="immagine" src="https://github.com/user-attachments/assets/3337e9a1-15b4-43eb-a9cd-af4810ae452c" />
 
 _Three phase sinewave computed on the microcontroller and streamed in real time to VScope2.0_
 
@@ -42,7 +44,9 @@ The acquired data can be stored in .csv file and as a scope acquisition, like a 
 > 
 `netsh advfirewall firewall add rule name="VScope UDP 5005" dir=in action=allow protocol=UDP localport=5005`
 
-https://github.com/user-attachments/assets/e4af8ac9-157b-435e-b1ee-e60cd0c03de7
+
+https://github.com/user-attachments/assets/b85401db-9652-4b30-88cf-2217a212878a
+
 
 ### Programming
 The Cortex®-M7 core can be programmed via drag and drop of the binary file 20Ch_20kSPS_CM7.binin the mass storage folder of the STLink, which defaults the board to a 20 kSPS stream and 20 channels available in read and write. 
