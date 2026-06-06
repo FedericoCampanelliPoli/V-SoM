@@ -1,9 +1,9 @@
 # V-SoM — Versatile System-on-Module for Power Electronics Debug & Control
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1e4d6177-b11d-4a40-bb3b-c211c3917550" width="45%"/>
+  <img src="https://github.com/FedericoCampanelliPoli/V-SoM/blob/main/Images/V-SoM_Rendering.png" width="45%"/>
   &nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/ee71a4b1-e50b-49ab-b51e-512a95fa3a74" width="45%"/>
+  <img src="https://github.com/FedericoCampanelliPoli/V-SoM/blob/main/Images/V-SoM_Version0.jpg" width="45%"/>
 </p>
 
 <p align="center">
